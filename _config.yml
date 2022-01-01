@@ -10,14 +10,14 @@ author-image:   wooong1130.jpg
 author-job:     Data Engineer
 author-email:   wooong1130@gmail.com # Add your email for contant form.
 author-twitter: _ # Add your twitter account
-about-author:   keep learning
+about-author:   Data? Engineering?
 # about-author:   I am a Data Engineer focusing on ... development. Always hungry to keep learning.
 
 # Social settings
 social-twitter:   
 # social-twitter:   artemsheludko_
 social-facebook:
-social-github:    https://github.com/wooong1130
+social-github: wooong1130
 social-pinterest: 
 # social-pinterest: artemsheludko
 social-instagram: 
@@ -32,7 +32,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 google-analytics: # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: wooong # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
